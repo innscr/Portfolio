@@ -1,6 +1,10 @@
-# 🧪 QA Automation Portfolio
+# 🧪 QA Portfolio
+## 📝 About me
+Hi! My name is Inga and I am a former Application Developer with over three years of experience working on .NET-based legacy applications. My work involved refactoring business systems, converting Visual Basic code to C#, and migrating web applications from HTML4 to HTML5 while ensuring browser compatibility and compliance with W3C standards.
 
-Hi! My name is Inga and I'm a former application developer transitioning into a QA Automation Engineer role.  
+During these projects, I also performed extensive manual testing, including UI validation and exploratory tests, which helped me gain practical skills in web technologies and sparked my strong interest in quality assurance.
+
+Now, I am fully focused on transitioning into a QA Engineering role, where I can combine my technical foundation with a passion for testing.
 This repository is my personal knowledge base, a space to document my learning path, and a directory of my QA-related projects.
 
 ---
