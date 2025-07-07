@@ -15,11 +15,10 @@ This repository is my personal knowledge base, a space to document my learning p
 |-------|--------|-------------|
 | 🔍 Understanding QA Fundamentals | ✅ | ISTQB FL, bug reporting, test strategies |
 | 💻 Manual Testing | ✅ | Test cases, checklists, exploratory testing |
+| 📈 Performance Testing | ✅ | Apache JMeter |
 | ⚙️ UI Automation Testing (Cypress) | ✅ | Login, form validations, UI flows |
 | 🌐 API Testing | 🔄 | REST, Postman, Cypress API |
 | 🧪 CI/CD + GitHub Actions | 🔄 | Automated test execution in pipelines |
-| 📈 Performance Testing | 🔜 |  |
-
 ---
 
 ## 📁 Testing Projects
