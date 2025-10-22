@@ -36,7 +36,7 @@ On projects I owned **manual testing** (UI validation, exploratory) and graduall
 
 ### 📁 Testing Projects
 
-- 🔗 [Demo OpenCart](https://github.com/innscr/QA_demo.opencart)
+- 🔗 [Manual Testing: Demo OpenCart](https://github.com/innscr/QA_demo.opencart)
 
 ---
 
