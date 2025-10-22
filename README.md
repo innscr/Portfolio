@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/innscr/innscr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/innscr/innscr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/innscr/innscr/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
@@ -54,3 +50,7 @@ On projects I owned **manual testing** (UI validation, exploratory) and graduall
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/innscr/)
 - 📧 inganiscior@gmail.com
+
+<img src="https://raw.githubusercontent.com/innscr/innscr/output/snake.svg" alt="Snake animation" />
+
+###
