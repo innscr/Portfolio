@@ -51,6 +51,6 @@ On projects I owned **manual testing** (UI validation, exploratory) and graduall
 - 🌐 [LinkedIn](https://www.linkedin.com/in/innscr/)
 - 📧 inganiscior@gmail.com
 
-<img src="https://raw.githubusercontent.com/innscr/innscr/output/snake.svg" alt="Snake animation" />
+<img src="https://innscr.github.io/innscr/snake.svg" alt="Snake animation" />
 
 ###
