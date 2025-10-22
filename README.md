@@ -1,14 +1,4 @@
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/innscr/Portfolio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/innscr/Portfolio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/innscr/Portfolio/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-### 🧪 QA Portfolio
-
 [![Role](https://img.shields.io/badge/Role-Automation%20Engineer-informational?logo=github&logoColor=white&style=for-the-badge)]()
 [![Selenium](https://img.shields.io/badge/Automation-Selenium-43B02A?logo=selenium&logoColor=white)]()
 [![Swagger](https://img.shields.io/badge/API-Swagger-green)]()
@@ -55,3 +45,9 @@ On projects I owned **manual testing** (UI validation, exploratory) and graduall
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/innscr/)
 - 📧 inganiscior@gmail.com
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/innscr/Portfolio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/innscr/Portfolio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/innscr/Portfolio/output/pacman-contribution-graph.svg">
+</picture>
